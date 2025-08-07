@@ -1,9 +1,6 @@
 <!-- 헤더 -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=🌸+Welcome+to+ppsssj's+GitHub!+🌸" alt="Welcome+to+ppsssj's+GitHub!" />
-</h1>
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FEC8D8,FFDFD3,FFD5EC,C5DEFF&height=250&section=header&text=ppsssj's%20GitHub&fontSize=50&animation=fadeIn&fontColor=000000&fontAlignY=40&desc=프론트엔드+%7C+AI+%7C+의료+%7C+영상처리&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FEC8D8,FFDFD3,FFD5EC,C5DEFF&height=250&section=header&text=ppsssj's%20GitHub&fontSize=50&animation=fadeIn&fontColor=000000&fontAlignY=40&desc=프론트엔드+%7C+AI+%7C&descAlignY=60&descAlign=50" />
 </p>
 
 <p align="center">
