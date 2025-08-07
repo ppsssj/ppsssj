@@ -6,12 +6,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" />
 </p>
-
-<p align="center">
-  🎓 <strong>Biomedical Engineering 전공</strong> | 💻 <strong>프론트엔드 & AI 영상처리 연구</strong> <br/>
-  🌱 끊임없이 배우고, 🎯 도전하며, ☀️ 꾸준히 성장하는 개발자 쥔님입니다.
-</p>
-
 ---
 
 <!-- 💻 주력 기술 스택 -->
