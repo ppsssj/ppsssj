@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=🌸+Welcome+to+ppsssj's+GitHub!+🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=🌸+Welcome+to+ppsssj's+GitHub!+🌸" alt="Welcome+to+ppsssj's+GitHub!" />
 </h1>
 
 <p align="center">
@@ -53,6 +53,5 @@
 
 <!-- 푸터 -->
 <p align="center">
-  📬 <strong>Contact:</strong> ppsssj@example.com <br/>
-  🦋 감사합니다! 오늘도 즐거운 코딩 되세요 🦋
+  📬 <strong>Contact:</strong> ppsssj@naver.com <br/>
 </p>
