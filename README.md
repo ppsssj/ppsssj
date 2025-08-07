@@ -1,9 +1,7 @@
 <!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C3E0FC,E0FFFF,B3E5FC,F0F8FF&height=150&section=header&text=Welcome%20to%20ppsssj's%20GitHub&fontSize=20&animation=fadeIn&fontColor=000000&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C3E0FC,E0FFFF,B3E5FC,F0F8FF&height=150&section=header&text=Welcome%20to%20ppsssj's%20GitHub&fontSize=20&animation=fadeIn&fontColor=000000&fontAlignY=38" />
 </p>
-
-
 
 <!-- 기술 & 활동 뱃지 -->
 <h3 align="center">Skills & Activities</h3>
