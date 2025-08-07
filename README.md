@@ -34,13 +34,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Girl GIF" />
 </p>
-
-<p align="center">
-  안녕하세요! 저는 <strong>연구와 개발을 사랑하는 대학생 개발자</strong>입니다.<br />
-  영상처리, 웹 서비스, 인공지능을 활용한 사람 중심의 기술을 만들고 싶어요. <br />
-  💡 연구실, 해커톤, 오픈소스 등 다양한 현장에서 경험하며 꾸준히 성장 중입니다.
-</p>
-
 ---
 
 <!-- 📊 GitHub Stats -->
