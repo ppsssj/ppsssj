@@ -1,6 +1,6 @@
 <!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C3E0FC,E0FFFF,B3E5FC,F0F8FF&height=150&section=header&text=Welcome%20to%20ppsssj's%20GitHub&fontSize=28&animation=fadeIn&fontColor=000000&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C3E0FC,E0FFFF,B3E5FC,F0F8FF&height=150&section=header&text=Welcome%20to%20ppsssj's%20GitHub&fontSize=280animation=fadeIn&fontColor=000000&fontAlignY=50" />
 </p>
 
 
