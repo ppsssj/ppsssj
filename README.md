@@ -1,6 +1,6 @@
 <!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C3E0FC,E0FFFF,B3E5FC,F0F8FF&height=230&section=header&text=Welcome%20to%20ppsssj's%20GitHub&fontSize=36&animation=fadeIn&fontColor=000000&fontAlignY=40&desc=Frontend%20%7C%20AI%20%7C%20Medical%20Imaging%20%7C%20Student%20Developer&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C3E0FC,E0FFFF,B3E5FC,F0F8FF&height=150&section=header&text=Welcome%20to%20ppsssj's%20GitHub&fontSize=28&animation=fadeIn&fontColor=000000&fontAlignY=38&desc=Frontend%20%7C%20AI%20%7C%20Medical%20Imaging%20%7C%20Student%20Developer&descAlignY=60&descAlign=50" />
 </p>
 
 <!-- 기술 & 활동 뱃지 -->
