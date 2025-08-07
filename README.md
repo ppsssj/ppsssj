@@ -1,7 +1,8 @@
 <!-- 헤더 -->
-<p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FEC8D8,FFDFD3,FFD5EC,C5DEFF&height=250&section=header&text=ppsssj's%20GitHub&fontSize=50&animation=fadeIn&fontColor=000000&fontAlignY=40&desc=프론트엔드+%7C+AI+%7C&descAlignY=60&descAlign=50" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE8E8,FCE3EC,E0C3FC,C3E0FC&height=250&section=header&text=Welcome%20to%20ppsssj's%20GitHub&fontSize=40&animation=fadeIn&fontColor=000000&fontAlignY=40&desc=Frontend%20%7C%20AI%20%7C%20Medical%20Imaging%20%7C%20Student%20Developer&descAlignY=60&descAlign=50" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" />
