@@ -3,13 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFF0F5,FCE3EC,E0FFFF,E6E6FA&height=230&section=header&text=Welcome%20to%20ppsssj's%20GitHub&fontSize=36&animation=fadeIn&fontColor=000000&fontAlignY=40&desc=Frontend%20%7C%20AI%20%7C%20Medical%20Imaging%20%7C%20Student%20Developer&descAlignY=65&descAlign=50" />
 </p>
 
-<!-- 🎞️ 가로 배치 GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="160px" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" />
-</p>
-
 <!-- 🚀 기술 & 활동 뱃지 -->
 <h3 align="center">🚀 Skills & Activities</h3>
 
@@ -30,8 +23,8 @@
 <!-- 📊 GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ppsssj&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppsssj&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ppsssj&show_icons=true&theme=tokyonight" height="100px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppsssj&layout=compact&theme=tokyonight" height="100px" />
 </p>
 
 <!-- 🌈 커밋 그래프 -->
