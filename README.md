@@ -39,5 +39,5 @@
 
 <!-- 이메일만 표시 -->
 <p align="center">
-  <strong>Email:</strong> ppsssj@naver.com
+  <strong>Email:</strong> ppssjj020222@naver.com
 </p>
