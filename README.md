@@ -20,13 +20,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ppsssj&show_icons=true&theme=tokyonight" height="100px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppsssj&layout=compact&theme=tokyonight" height="100px" />
-</p>
 
 <!-- Contribution Graph -->
 <h3 align="center">Contribution Graph</h3>
