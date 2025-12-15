@@ -13,13 +13,19 @@
   <img src="https://img.shields.io/badge/CSS3-3F51B5?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-4CAF50?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-00BCD4?style=flat-square&logo=r&logoColor=white" />
+
+  <!-- 추가: Java / C / C++ / Kotlin -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+
   <!-- 활동 뱃지 -->
   <img src="https://img.shields.io/badge/멋쟁이사자처럼-운영진-F48FB1?style=flat-square&logo=githubsponsors&logoColor=white" />
   <img src="https://img.shields.io/badge/SW창업동아리-팀장-FFB74D?style=flat-square&logo=rocket&logoColor=white" />
 </p>
 
 ---
-
 
 <!-- Contribution Graph -->
 <h3 align="center">Contribution Graph</h3>
