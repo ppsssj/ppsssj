@@ -36,6 +36,7 @@
   <!-- Activities -->
   <img src="https://img.shields.io/badge/멋쟁이사자처럼-운영진-F48FB1?style=flat-square&logo=githubsponsors&logoColor=white" />
   <img src="https://img.shields.io/badge/SW창업동아리-팀장-FFB74D?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/AICS%20Lab-학부연구생-81C784?style=flat-square&logo=academia&logoColor=white" />
 </p>
 
 
