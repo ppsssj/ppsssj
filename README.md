@@ -50,7 +50,6 @@
 ---
 
 ## Featured Projects
->  대표 프로젝트 섹션  
 
 - **GraphMind (MVP)** — Natural language & formula → interactive 3D graph visualization  
   `React · Three.js (R3F) · mathjs`  
