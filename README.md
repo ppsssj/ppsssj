@@ -42,15 +42,6 @@
 
 ---
 
-<!-- Contribution Graph -->
-<h3 align="center">Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ppsssj" alt="ppsssj's GitHub chart" />
-</p>
-
----
-
 <!-- 이메일만 표시 -->
 <p align="center">
   <strong>Email:</strong> ppssjj020222@naver.com && ppssjj020222@gmail.com
