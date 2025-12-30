@@ -50,20 +50,23 @@
 ---
 
 ## Featured Projects
-> 아래는 “대표 프로젝트”를 보기 좋게 모아두는 섹션입니다.  
-> 각 링크/설명은 본인 레포에 맞게 수정하세요.
+>  대표 프로젝트 섹션  
 
 - **GraphMind (MVP)** — Natural language & formula → interactive 3D graph visualization  
   `React · Three.js (R3F) · mathjs`  
-  🔗 Repo: (여기에 링크)
-
-- **Thermal Nasal Respiration Analysis** — ROI-based tracking & polynomial approximation  
-  `Python · OpenCV · Statistics/ML`  
-  🔗 Repo: (여기에 링크)
+  🔗 Repo: https://github.com/ppsssj/GraphMind.git
 
 - **Hackathon / Product Prototypes** — rapid prototyping & UI/UX iteration  
   `React · API integration · deployment`  
-  🔗 Repo: (여기에 링크)
+  🔗 Repo: https://github.com/ppsssj/farmland-matching.git
+
+- **Traffic Noise Prediction (CatBoost Regression)** — data-driven traffic noise level prediction with multi-source features  
+  `Python · CatBoost · Regression · Feature Engineering · API/Visualization`  
+  🔗 Repo: https://github.com/ppsssj/Traffic-Noise-Prediction-System.git
+  
+- **Traffic Flow Prediction (GINE + NSGA-II)** — graph neural network-based traffic speed/flow prediction & multi-objective road planning  
+  `Python · PyTorch Geometric · GINE · NSGA-II · Data Pipeline`  
+  🔗 Repo: https://github.com/ppsssj/gine-road-speed-quantile.git
 
 ---
 
