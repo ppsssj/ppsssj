@@ -3,6 +3,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C3E0FC,E0FFFF,B3E5FC,F0F8FF&height=150&section=header&text=Welcome%20to%20ppsssj's%20GitHub&fontSize=20&animation=fadeIn&fontColor=bcbcbc&fontAlignY=38" />
 </p>
 
+<p align="center">
+  <b>Undergraduate Researcher · Frontend / AI-Data</b><br/>
+  Thermal Imaging · Medical IT · Interactive 3D Visualization
+</p>
+
+---
+
+## About
+- 🎓 University senior (Medical IT / Software)
+- 🔬 Research: Thermal imaging-based nasal respiration flow analysis
+- 🧩 Interests: 3D visualization (R3F/Three.js), data-driven modeling, product-oriented development
+
+---
+
 <!-- 기술 & 활동 뱃지 -->
 <h3 align="center">Skills & Activities</h3>
 
@@ -12,25 +26,21 @@
   <img src="https://img.shields.io/badge/CSS3-3F51B5?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-
   <br/>
 
   <!-- Backend / General-purpose -->
   <img src="https://img.shields.io/badge/Python-4CAF50?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-
   <br/>
 
   <!-- System / Low-level -->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-
   <br/>
 
   <!-- Data / Statistics -->
   <img src="https://img.shields.io/badge/R-00BCD4?style=flat-square&logo=r&logoColor=white" />
-
   <br/>
 
   <!-- Activities -->
@@ -39,10 +49,36 @@
   <img src="https://img.shields.io/badge/AICS%20Lab-학부연구생-81C784?style=flat-square&logo=academia&logoColor=white" />
 </p>
 
+---
+
+## Featured Projects
+> 아래는 “대표 프로젝트”를 보기 좋게 모아두는 섹션입니다.  
+> 각 링크/설명은 본인 레포에 맞게 수정하세요.
+
+- **GraphMind (MVP)** — Natural language & formula → interactive 3D graph visualization  
+  `React · Three.js (R3F) · mathjs`  
+  🔗 Repo: (여기에 링크)
+
+- **Thermal Nasal Respiration Analysis** — ROI-based tracking & polynomial approximation  
+  `Python · OpenCV · Statistics/ML`  
+  🔗 Repo: (여기에 링크)
+
+- **Hackathon / Product Prototypes** — rapid prototyping & UI/UX iteration  
+  `React · API integration · deployment`  
+  🔗 Repo: (여기에 링크)
 
 ---
 
-<!-- 이메일만 표시 -->
+## Highlights
+- 🏆 Hackathon awards / project leadership experiences
+- 🧾 Research posters / papers in progress (medical imaging & analysis)
+- 🔧 Strong focus on reproducible implementation and clean UI integration
+
+---
+
+<!-- 연락처 -->
 <p align="center">
-  <strong>Email:</strong> ppssjj020222@naver.com && ppssjj020222@gmail.com
+  <strong>Email</strong><br/>
+  <a href="mailto:ppssjj020222@naver.com">ppssjj020222@naver.com</a> ·
+  <a href="mailto:ppssjj020222@gmail.com">ppssjj020222@gmail.com</a>
 </p>
