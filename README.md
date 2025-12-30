@@ -5,15 +5,13 @@
 
 <p align="center">
   <b>Undergraduate Researcher · Frontend / AI-Data</b><br/>
-  Thermal Imaging · Medical IT · Interactive 3D Visualization
 </p>
 
 ---
 
 ## About
-- 🎓 University senior (Medical IT / Software)
-- 🔬 Research: Thermal imaging-based nasal respiration flow analysis
-- 🧩 Interests: 3D visualization (R3F/Three.js), data-driven modeling, product-oriented development
+-  University senior (Software)
+-  Interests: 3D visualization (R3F/Three.js), product-oriented development
 
 ---
 
@@ -66,13 +64,6 @@
 - **Hackathon / Product Prototypes** — rapid prototyping & UI/UX iteration  
   `React · API integration · deployment`  
   🔗 Repo: (여기에 링크)
-
----
-
-## Highlights
-- 🏆 Hackathon awards / project leadership experiences
-- 🧾 Research posters / papers in progress (medical imaging & analysis)
-- 🔧 Strong focus on reproducible implementation and clean UI integration
 
 ---
 
