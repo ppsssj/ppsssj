@@ -52,8 +52,8 @@
 ## Featured Projects
 
 - **GraphMind (MVP)** — Natural language & formula → interactive 3D graph visualization  
-  `React · Three.js (R3F) · mathjs`  
-  🔗 Repo: https://github.com/ppsssj/GraphMind.git
+  `React · Three.js (R3F) · mathjs · Spring`  
+  🔗 Repo: [https://github.com/ppsssj/GraphMind.git](https://github.com/ppsssj/GraphMind-monorepo.git)
 
 - **Hackathon / Product Prototypes** — rapid prototyping & UI/UX iteration  
   `React · API integration · deployment`  
