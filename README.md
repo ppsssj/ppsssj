@@ -50,6 +50,11 @@
   <img src="https://img.shields.io/badge/AICS%20Lab-학부연구생-81C784?style=flat-square&logo=academia&logoColor=white" />
 </p>
 
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppsssj&layout=compact&langs_count=8" />
+</p>
+
 ---
 
 ## Featured Projects
