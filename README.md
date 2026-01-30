@@ -52,8 +52,9 @@
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppsssj&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppsssj&layout=compact&langs_count=8&cache_seconds=86400" />
 </p>
+
 
 ---
 
