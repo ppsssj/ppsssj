@@ -42,7 +42,7 @@
   `React · Three.js (R3F) · mathjs · Spring`  
   🔗 Repo: [https://github.com/ppsssj/GraphMind.git](https://github.com/ppsssj/GraphMind-monorepo.git)
 
-  - **Git-Effects (VS Code Extension)** — Visual slide-in effects for Git actions (commit/push/pull) inside VS Code  
+- **Git-Effects (VS Code Extension)** — Visual slide-in effects for Git actions (commit/push/pull) inside VS Code  
   `TypeScript · VS Code Extension · Webview · Three.js`  
   ✅ Published on VS Code Marketplace  
   🔗 Repo: https://github.com/ppsssj/Git-Effects
