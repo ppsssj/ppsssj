@@ -45,6 +45,7 @@
 - **Git-Effects (VS Code Extension)** — Visual slide-in effects for Git actions (commit/push/pull) inside VS Code  
   `TypeScript · VS Code Extension · Webview · Three.js`  
   ✅ Published on VS Code Marketplace  
+  🔗 Marketplace: https://marketplace.visualstudio.com/items?itemName=ppsssj.git-effects#review-details  
   🔗 Repo: https://github.com/ppsssj/Git-Effects
 
 - **Hackathon / Product Prototypes** — rapid prototyping & UI/UX iteration  
