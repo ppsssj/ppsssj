@@ -44,7 +44,7 @@
 
 - **Git-Effects (VS Code Extension)** — Visual slide-in effects for Git actions (commit/push/pull) inside VS Code  
   `TypeScript · VS Code Extension · Webview · Three.js`  
-  ✅ Published on VS Code Marketplace  
+   Published on VS Code Marketplace  
   🔗 Marketplace: https://marketplace.visualstudio.com/items?itemName=ppsssj.git-effects#review-details  
   🔗 Repo: https://github.com/ppsssj/Git-Effects
 
@@ -53,7 +53,9 @@
   🔗 Repo: https://github.com/ppsssj/farmland-matching.git
 
 - **Traffic Noise Prediction (CatBoost Regression, WEB)** — data-driven traffic noise level prediction with multi-source features  
-  `Python · CatBoost · Regression · Feature Engineering · API/Visualization`  
+  `Python · CatBoost · Regression · Feature Engineering · API/Visualization`
+  - 2025 BLEP 데이터 활용 경진대회 – 장려상
+  - 2025 한국 데이터 사이언스 학회 – 최우수 논문상
   🔗 Repo: https://github.com/ppsssj/Traffic-Noise-Prediction-System.git
   
 - **Traffic Flow Prediction (GINE + NSGA-II)** — graph neural network-based traffic speed/flow prediction & multi-objective road planning  
