@@ -55,8 +55,8 @@
 - **Traffic Noise Prediction (CatBoost Regression, WEB)** — data-driven traffic noise level prediction with multi-source features  
   `Python · CatBoost · Regression · Feature Engineering · API/Visualization`
   - 2025 BLEP 데이터 활용 경진대회 – 장려상
-  - 2025 한국 데이터 사이언스 학회 – 최우수 논문상
-    🔗 Repo: https://github.com/ppsssj/Traffic-Noise-Prediction-System.git
+  - 2025 한국 데이터 사이언스 학회 – 최우수 논문상<br/>
+  🔗 Repo: https://github.com/ppsssj/Traffic-Noise-Prediction-System.git
   
 - **Traffic Flow Prediction (GINE + NSGA-II)** — graph neural network-based traffic speed/flow prediction & multi-objective road planning  
   `Python · PyTorch Geometric · GINE · NSGA-II · Data Pipeline`  
