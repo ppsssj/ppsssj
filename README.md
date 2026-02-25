@@ -52,11 +52,11 @@
   `React · API integration · deployment`  
   🔗 Repo: https://github.com/ppsssj/farmland-matching.git
 
-- **Traffic Noise Prediction (CatBoost Regression)** — data-driven traffic noise level prediction with multi-source features  
+- **Traffic Noise Prediction (CatBoost Regression, WEB)** — data-driven traffic noise level prediction with multi-source features  
   `Python · CatBoost · Regression · Feature Engineering · API/Visualization`  
   🔗 Repo: https://github.com/ppsssj/Traffic-Noise-Prediction-System.git
   
-- **Traffic Flow Prediction (GINE + NSGA-II, WEB)** — graph neural network-based traffic speed/flow prediction & multi-objective road planning  
+- **Traffic Flow Prediction (GINE + NSGA-II)** — graph neural network-based traffic speed/flow prediction & multi-objective road planning  
   `Python · PyTorch Geometric · GINE · NSGA-II · Data Pipeline`  
   🔗 Repo: https://github.com/ppsssj/gine-road-speed-quantile.git
 
