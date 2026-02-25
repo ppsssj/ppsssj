@@ -38,7 +38,7 @@
 
 ## Featured Projects
 
-- **GraphMind (MVP)** — Natural language & formula → interactive 3D graph visualization  
+- **GraphMind (WEB)** — Natural language & formula → interactive 3D graph visualization  
   `React · Three.js (R3F) · mathjs · Spring`  
   🔗 Repo: [https://github.com/ppsssj/GraphMind.git](https://github.com/ppsssj/GraphMind-monorepo.git)
 
@@ -48,7 +48,7 @@
   🔗 Marketplace: https://marketplace.visualstudio.com/items?itemName=ppsssj.git-effects#review-details  
   🔗 Repo: https://github.com/ppsssj/Git-Effects
 
-- **Hackathon / Product Prototypes** — rapid prototyping & UI/UX iteration  
+- **Hackathon / Product Prototypes (WEB)** — rapid prototyping & UI/UX iteration  
   `React · API integration · deployment`  
   🔗 Repo: https://github.com/ppsssj/farmland-matching.git
 
@@ -56,7 +56,7 @@
   `Python · CatBoost · Regression · Feature Engineering · API/Visualization`  
   🔗 Repo: https://github.com/ppsssj/Traffic-Noise-Prediction-System.git
   
-- **Traffic Flow Prediction (GINE + NSGA-II)** — graph neural network-based traffic speed/flow prediction & multi-objective road planning  
+- **Traffic Flow Prediction (GINE + NSGA-II, WEB)** — graph neural network-based traffic speed/flow prediction & multi-objective road planning  
   `Python · PyTorch Geometric · GINE · NSGA-II · Data Pipeline`  
   🔗 Repo: https://github.com/ppsssj/gine-road-speed-quantile.git
 
