@@ -48,6 +48,11 @@
   🔗 Marketplace: https://marketplace.visualstudio.com/items?itemName=ppsssj.git-effects#review-details  
   🔗 Repo: https://github.com/ppsssj/Git-Effects
 
+- **CodeGraph (VS Code Extension)** — Interactive code structure visualization for TypeScript/JavaScript inside VS Code
+  `TypeScript · VS Code Extension · React · Webview`  
+  Visualizes functions, classes, interfaces, and their relationships as an interactive graph
+🔗 Repo: https://github.com/ppsssj/CodeGraph
+
 - **Hackathon / Product Prototypes (WEB)** — rapid prototyping & UI/UX iteration  
   `React · API integration · deployment`  
   🔗 Repo: https://github.com/ppsssj/farmland-matching.git
