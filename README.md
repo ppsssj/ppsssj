@@ -10,8 +10,8 @@
 ---
 
 ## About
--  University senior (Software)
--  Interests: 3D visualization (R3F/Three.js), product-oriented development
+- University senior (Software)
+- Interests: 3D visualization (R3F/Three.js), product-oriented development
 
 ---
 
@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/AICS%20Lab-학부연구생-81C784?style=flat-square&logo=academia&logoColor=white" />
 </p>
 
-
 ---
 
 ## Featured Projects
@@ -44,27 +43,26 @@
 
 - **Git-Effects (VS Code Extension)** — Visual slide-in effects for Git actions (commit/push/pull) inside VS Code  
   `TypeScript · VS Code Extension · Webview · Three.js`  
-   Published on VS Code Marketplace  
+  Published on VS Code Marketplace  
   🔗 Marketplace: https://marketplace.visualstudio.com/items?itemName=ppsssj.git-effects#review-details  
   🔗 Repo: https://github.com/ppsssj/Git-Effects
 
-- **CodeGraph (VS Code Extension)** — Interactive code structure visualization for TypeScript/JavaScript inside VS Code
-TypeScript · VS Code Extension · React · Webview
-Visualizes functions, classes, interfaces, and their relationships as an interactive graph
-🔗 Repo: https://github.com/ppsssj/CodeGraph
+- **CodeGraph (VS Code Extension)** — Interactive code structure visualization for TypeScript/JavaScript inside VS Code  
+  `TypeScript · VS Code Extension · React · Webview`  
+  Visualizes functions, classes, interfaces, and their relationships as an interactive graph  
+  🔗 Repo: https://github.com/ppsssj/CodeGraph
 
-- **Hackathon / Product Prototypes (WEB)** — rapid prototyping & UI/UX iteration  
+- **Hackathon / Product Prototypes (WEB)** — Rapid prototyping & UI/UX iteration  
   `React · API integration · deployment`  
   🔗 Repo: https://github.com/ppsssj/farmland-matching.git
 
-- **Traffic Noise Prediction (CatBoost Regression, WEB)** — data-driven traffic noise level prediction with multi-source features  
+- **Traffic Noise Prediction (CatBoost Regression, WEB)** — Data-driven traffic noise level prediction with multi-source features  
   `Python · CatBoost · Regression · Feature Engineering · API/Visualization`  
   - 2025 BLEP 데이터 활용 경진대회 – 장려상
-  - 2025 한국 데이터 사이언스 학회 – 최우수 논문상
-
+  - 2025 한국 데이터 사이언스 학회 – 최우수 논문상  
   🔗 Repo: https://github.com/ppsssj/Traffic-Noise-Prediction-System.git
   
-- **Traffic Flow Prediction (GINE + NSGA-II)** — graph neural network-based traffic speed/flow prediction & multi-objective road planning  
+- **Traffic Flow Prediction (GINE + NSGA-II)** — Graph neural network-based traffic speed/flow prediction & multi-objective road planning  
   `Python · PyTorch Geometric · GINE · NSGA-II · Data Pipeline`  
   🔗 Repo: https://github.com/ppsssj/gine-road-speed-quantile.git
 
