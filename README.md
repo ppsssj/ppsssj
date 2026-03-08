@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,35:1D4ED8,70:06B6D4,100:E0F2FE&text=ppsssj&fontSize=54&fontColor=F8FAFC&animation=fadeIn&desc=Web%20%7C%20AI-Data%20%7C%20Product%20Development&descAlignY=68&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:DBEAFE,35:93C5FD,70:67E8F9,100:E2E8F0&text=ppsssj&fontSize=54&fontColor=0F172A&animation=fadeIn&desc=Web%20%7C%20AI-Data%20%7C%20Product%20Development&descAlignY=68&descSize=18&descColor=1E293B" />
 </p>
 <h3 align="center">Skills</h3>
 
