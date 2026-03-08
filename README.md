@@ -15,9 +15,9 @@
 <h3 align="center">Activities</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2025-Mentoring-F48FB1?style=flat-square&logo=githubsponsors&logoColor=white" />
-  <img src="https://img.shields.io/badge/2025-SW%20Startup%20Club-FFB74D?style=flat-square&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/AICS%20Lab-Undergraduate%20Researcher-81C784?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/2025-%EB%A9%8B%EC%9F%81%EC%9D%B4%20%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC%20%EC%9A%B4%EC%98%81%EC%A7%84-F48FB1?style=flat-square&logo=githubsponsors&logoColor=white" />
+  <img src="https://img.shields.io/badge/2025-%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC-FFB74D?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/AICS%20Lab-%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D-81C784?style=flat-square&logo=academia&logoColor=white" />
 </p>
 
 ---
