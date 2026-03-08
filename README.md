@@ -20,14 +20,20 @@
   <img src="https://img.shields.io/badge/AICS%20Lab-%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D-81C784?style=flat-square&logo=academia&logoColor=white" />
 </p>
 
----
-
 ## About
 
 - University senior (Software)
 - Interests: 3D visualization (R3F/Three.js), product-oriented development
 
----
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ppsssj&hide_border=true&background=F8FBFF&ring=2563EB&fire=38BDF8&currStreakLabel=1E293B&sideLabels=334155&sideNums=0F172A&currStreakNum=1D4ED8&dates=475569&stroke=CBD5E1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ppsssj&bg_color=f8fbff&color=334155&line=2563eb&point=38bdf8&area=true&area_color=dbeafe&title_color=0f172a&custom_title=ppsssj%20Contribution%20Graph&hide_border=true" />
+</p>
 
 ## Featured Projects
 
@@ -57,8 +63,6 @@
 - **Traffic Flow Prediction (GINE + NSGA-II)** Graph neural network-based traffic speed and flow prediction with multi-objective road planning  
   `Python | PyTorch Geometric | GINE | NSGA-II | Data Pipeline`  
   Repo: https://github.com/ppsssj/gine-road-speed-quantile.git
-
----
 
 <!-- Contact -->
 <p align="center">
