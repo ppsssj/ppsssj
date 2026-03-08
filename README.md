@@ -31,10 +31,6 @@
   <img src="https://streak-stats.demolab.com?user=ppsssj&hide_border=true&background=F8FBFF&ring=2563EB&fire=38BDF8&currStreakLabel=1E293B&sideLabels=334155&sideNums=0F172A&currStreakNum=1D4ED8&dates=475569&stroke=CBD5E1" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ppsssj&bg_color=f8fbff&color=334155&line=2563eb&point=38bdf8&area=true&area_color=dbeafe&title_color=0f172a&custom_title=ppsssj%20Contribution%20Graph&hide_border=true" />
-</p>
-
 ## Featured Projects
 
 - **GraphMind (WEB)** Interactive 3D graph visualization from natural language and formulas  
