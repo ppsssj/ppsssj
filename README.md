@@ -23,7 +23,7 @@
 ## About
 
 - University senior (Software)
-- Interests: 3D visualization (R3F/Three.js), product-oriented development
+- Interests: 3D visualization (R3F/Three.js), AI, product-oriented development
 
 ## GitHub Stats
 
