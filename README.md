@@ -3,9 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:DBEAFE,35:93C5FD,70:67E8F9,100:E2E8F0&text=ppsssj&fontSize=54&fontColor=0F172A&animation=fadeIn&desc=Web%20%7C%20AI-Data%20%7C%20Product%20Development&descAlignY=68&descSize=18&descColor=1E293B" />
 </p>
 <p align="center">
-  <a href="https://port-folio-ppsssj.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://port-folio-ppsssj.vercel.app/"><strong>Portfolio</strong></a> ·
+  <a href="https://github.com/ppsssj?tab=repositories"><strong>Projects</strong></a>
 </p>
 <h3 align="center">Skills</h3>
 
