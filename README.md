@@ -54,7 +54,7 @@
   Marketplace: https://marketplace.visualstudio.com/items?itemName=ppsssj.cogic  
   Repo: https://github.com/ppsssj/CodeGraph
 
-- **Farmland Matching Platform (WEB)** 토지 소유주와 청년 농업인을 연결하기 위한 신뢰 기반 농지 클러스터링 매칭 서비스 프로토타입
+- **Farmland Matching Platform (WEB)** 토지 소유주와 청년 농업인을 연결하기 위한 신뢰 기반 농지 클러스터링 매칭 서비스 프로토타입  
   `React | UI/UX Design | API integration | Deployment`  
   Repo: https://github.com/ppsssj/farmland-matching.git
 
