@@ -37,32 +37,31 @@
 
 ## Featured Projects
 
-- **GraphMind (WEB)** Interactive 3D graph visualization from natural language and formulas  
+- **GraphMind (WEB)** 수식으로 3차원 그래프를 생성하고, 그래프와 수식 간 양방향 반영 및 LLM 기반 조작·분석을 지원하는 웹 프로젝트  
   `React | Three.js (R3F) | mathjs | Spring`  
   Repo: [https://github.com/ppsssj/GraphMind.git](https://github.com/ppsssj/GraphMind-monorepo.git)
 
-- **Git-Effects (VS Code Extension)** Visual slide-in effects for Git actions inside VS Code  
+- **Git-Effects (VS Code Extension)** VS Code에서 Git 작업 결과를 시각적 애니메이션으로 제공하는 확장 프로그램  
   `TypeScript | VS Code Extension | Webview | Three.js`  
   Published on VS Code Marketplace  
   Marketplace: https://marketplace.visualstudio.com/items?itemName=ppsssj.git-effects#review-details  
   Repo: https://github.com/ppsssj/Git-Effects
 
-- **CodeGraph (VS Code Extension)** Interactive code structure visualization for TypeScript and JavaScript  
+- **CodeGraph (VS Code Extension)** TypeScript와 JavaScript 코드 구조를 그래프 기반으로 탐색할 수 있도록 만든 VS Code 확장 프로그램  
   `TypeScript | VS Code Extension | React | Webview`  
-  Visualizes functions, classes, interfaces, and their relationships as an interactive graph  
+  함수, 클래스, 인터페이스 등 주요 코드 요소와 관계를 시각화하여 코드 이해를 지원  
   Marketplace: https://marketplace.visualstudio.com/items?itemName=ppsssj.cogic  
   Repo: https://github.com/ppsssj/CodeGraph
 
-- **Farmland Matching Platform (WEB)** Hackathon Web Prototype
-Developed a trust-based matching service for connecting landowners with young farmers
+- **Farmland Matching Platform (WEB)** 토지 소유주와 청년 농업인을 연결하기 위한 신뢰 기반 농지 클러스터링 매칭 서비스 프로토타입
   `React | UI/UX Design | API integration | Deployment`  
   Repo: https://github.com/ppsssj/farmland-matching.git
 
-- **Traffic Noise Prediction (CatBoost Regression, WEB)** Data-driven traffic noise level prediction with multi-source features  
+- **Traffic Noise Prediction (CatBoost Regression, WEB)** 메타 데이터 바탕 CatBoost 회귀 모델을 활용해 교통 소음 수준을 예측하고 시각화한 웹 프로젝트  
   `Python | CatBoost | Regression | Feature Engineering | API/Visualization`  
   Repo: https://github.com/ppsssj/Traffic-Noise-Prediction-System.git
 
-- **Traffic Flow Prediction (GINE + NSGA-II)** Graph neural network-based traffic speed and flow prediction with multi-objective road planning  
+- **Traffic Flow Prediction (GINE + NSGA-II)** 그래프 신경망과 다목적 최적화 기법을 활용해 교통 속도와 흐름을 예측한 프로젝트  
   `Python | PyTorch Geometric | GINE | NSGA-II | Data Pipeline`  
   Repo: https://github.com/ppsssj/gine-road-speed-quantile.git
 
