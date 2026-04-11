@@ -49,7 +49,8 @@
 
 - **CodeGraph (VS Code Extension)** TypeScript와 JavaScript 코드 구조를 그래프 기반으로 탐색할 수 있도록 만든 VS Code 확장 프로그램  
   `TypeScript | VS Code Extension | React | Webview`  
-  함수, 클래스, 인터페이스 등 주요 코드 요소와 관계를 시각화하여 코드 이해를 지원  
+  함수, 클래스, 인터페이스 등 주요 코드 요소와 관계를 시각화하여 코드 이해를 지원
+  Published on VS Code Marketplace  
   Marketplace: https://marketplace.visualstudio.com/items?itemName=ppsssj.cogic  
   Repo: https://github.com/ppsssj/CodeGraph
 
