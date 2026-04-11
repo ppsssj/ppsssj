@@ -49,7 +49,8 @@
 
 - **CodeGraph (VS Code Extension)** Interactive code structure visualization for TypeScript and JavaScript  
   `TypeScript | VS Code Extension | React | Webview`  
-  Visualizes functions, classes, interfaces, and their relationships as an interactive graph  
+  Visualizes functions, classes, interfaces, and their relationships as an interactive graph
+  Marketplace: https://marketplace.visualstudio.com/items?itemName=ppsssj.cogic
   Repo: https://github.com/ppsssj/CodeGraph
 
 - **Hackathon / Product Prototypes (WEB)** Rapid prototyping and UI/UX iteration  
