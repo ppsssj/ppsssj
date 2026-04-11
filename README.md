@@ -53,8 +53,9 @@
   Marketplace: https://marketplace.visualstudio.com/items?itemName=ppsssj.cogic  
   Repo: https://github.com/ppsssj/CodeGraph
 
-- **Hackathon / Product Prototypes (WEB)** Rapid prototyping and UI/UX iteration  
-  `React | API integration | deployment`  
+- **Farmland Matching Platform (WEB)** Hackathon Web Prototype
+Developed a trust-based matching service for connecting landowners with young farmers
+  `React | UI/UX Design | API integration | Deployment`  
   Repo: https://github.com/ppsssj/farmland-matching.git
 
 - **Traffic Noise Prediction (CatBoost Regression, WEB)** Data-driven traffic noise level prediction with multi-source features  
