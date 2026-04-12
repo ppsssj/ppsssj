@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/AICS%20Lab-%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D-81C784?style=flat-square&logo=academia&logoColor=white" />
 </p>
 
-<details open>
+<details>
   <summary><strong>About</strong></summary>
   <br />
 
@@ -44,7 +44,7 @@
   </p>
 </details>
 
-<details open>
+<details>
   <summary><strong>Featured Projects</strong></summary>
   <br />
 
