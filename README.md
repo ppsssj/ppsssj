@@ -30,9 +30,9 @@
   <summary><strong>About</strong></summary>
   <br />
 
-  - Software Engineering senior
-  - Interested in web development, AI-data, and product-oriented development
-  - Focused on turning ideas into deployable products through fast prototyping
+  - 소프트웨어공학과 4학년
+  - 웹 개발, AI·데이터, 제품 중심 개발에 관심이 있습니다
+  - 빠른 프로토타이핑을 통해 아이디어를 배포 가능한 결과물로 구현하는 데 집중하고 있습니다
 </details>
 
 <details>
@@ -49,37 +49,37 @@
   <br />
 
   - **GraphMind (WEB)**  
-    A web project that generates 3D graphs from formulas and supports bidirectional synchronization between formulas and graphs, along with LLM-based interaction and analysis  
+    수식으로 3차원 그래프를 생성하고, 그래프와 수식 간 양방향 반영 및 LLM 기반 조작·분석을 지원하는 웹 프로젝트  
     `React | Three.js (R3F) | mathjs | Spring`  
     Repo: [GraphMind](https://github.com/ppsssj/GraphMind-monorepo.git)
 
   - **Git-Effects (VS Code Extension)**  
-    A VS Code extension that provides visual animation feedback for Git operations  
+    VS Code에서 Git 작업 결과를 시각적 애니메이션으로 제공하는 확장 프로그램  
     `TypeScript | VS Code Extension | Webview | Three.js`  
     Published on VS Code Marketplace  
     Marketplace: [Git-Effects](https://marketplace.visualstudio.com/items?itemName=ppsssj.git-effects#review-details)  
     Repo: [Git-Effects](https://github.com/ppsssj/Git-Effects)
 
   - **Cogic (VS Code Extension)**  
-    A VS Code extension for exploring TypeScript and JavaScript code structures through graph-based visualization  
+    TypeScript와 JavaScript 코드 구조를 그래프 기반으로 탐색할 수 있도록 만든 VS Code 확장 프로그램  
     `TypeScript | VS Code Extension | React | Webview`  
-    Visualizes core code entities such as functions, classes, and interfaces to support code understanding  
+    함수, 클래스, 인터페이스 등 주요 코드 요소와 관계를 시각화하여 코드 이해를 지원  
     Published on VS Code Marketplace  
     Marketplace: [Cogic](https://marketplace.visualstudio.com/items?itemName=ppsssj.cogic)  
     Repo: [Cogic](https://github.com/ppsssj/CodeGraph)
 
   - **Farmland Matching Platform (WEB)**  
-    A trust-based farmland clustering and matching service prototype connecting landowners and young farmers  
+    토지 소유주와 청년 농업인을 연결하기 위한 신뢰 기반 농지 매칭 서비스 프로토타입  
     `React | UI/UX Design | API Integration | Deployment`  
     Repo: [Farmland Matching](https://github.com/ppsssj/farmland-matching.git)
 
   - **Traffic Noise Prediction (CatBoost Regression, WEB)**  
-    A web project that predicts and visualizes traffic noise levels using a CatBoost regression model based on metadata  
+    메타데이터를 바탕으로 CatBoost 회귀 모델을 활용해 교통 소음 수준을 예측하고 시각화한 웹 프로젝트  
     `Python | CatBoost | Regression | Feature Engineering | API | Visualization`  
     Repo: [Traffic Noise Prediction](https://github.com/ppsssj/Traffic-Noise-Prediction-System.git)
 
   - **Traffic Flow Prediction (GINE + NSGA-II)**  
-    A project that predicts traffic speed and flow using graph neural networks and multi-objective optimization  
+    그래프 신경망과 다목적 최적화 기법을 활용해 교통 속도와 흐름을 예측한 프로젝트  
     `Python | PyTorch Geometric | GINE | NSGA-II | Data Pipeline`  
     Repo: [Traffic Flow Prediction](https://github.com/ppsssj/gine-road-speed-quantile.git)
 </details>
