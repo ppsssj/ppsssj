@@ -87,13 +87,6 @@
     `React | Three.js (R3F) | mathjs | Spring`  
     Repo: [GraphMind](https://github.com/ppsssj/GraphMind-monorepo.git)
 
-  - **Git-Effects (VS Code Extension)**  
-    VS Code에서 Git 작업 결과를 시각적 애니메이션으로 제공하는 확장 프로그램  
-    `TypeScript | VS Code Extension | Webview | Three.js`  
-    Published on VS Code Marketplace  
-    Marketplace: [Git-Effects](https://marketplace.visualstudio.com/items?itemName=ppsssj.git-effects#review-details)  
-    Repo: [Git-Effects](https://github.com/ppsssj/Git-Effects)
-
   - **Cogic (VS Code Extension)**  
     TypeScript와 JavaScript 코드 구조를 그래프 기반으로 탐색할 수 있도록 만든 VS Code 확장 프로그램  
     `TypeScript | VS Code Extension | React | Webview`  
@@ -101,6 +94,13 @@
     Published on VS Code Marketplace  
     Marketplace: [Cogic](https://marketplace.visualstudio.com/items?itemName=ppsssj.cogic)  
     Repo: [Cogic](https://github.com/ppsssj/CodeGraph)
+
+  - **Git-Effects (VS Code Extension)**  
+    VS Code에서 Git 작업 결과를 시각적 애니메이션으로 제공하는 확장 프로그램  
+    `TypeScript | VS Code Extension | Webview | Three.js`  
+    Published on VS Code Marketplace  
+    Marketplace: [Git-Effects](https://marketplace.visualstudio.com/items?itemName=ppsssj.git-effects#review-details)  
+    Repo: [Git-Effects](https://github.com/ppsssj/Git-Effects)
 
   - **Farmland Matching Platform (WEB)**  
     토지 소유주와 청년 농업인을 연결하기 위한 신뢰 기반 농지 매칭 서비스 프로토타입  
