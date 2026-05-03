@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/VS%20Code%20Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Webview-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/AST%20Analysis-2F4F4F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 <p align="center">
