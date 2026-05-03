@@ -11,11 +11,46 @@
 <h3 align="center">Skills</h3>
 
 <p align="center">
+  <strong>Frontend</strong>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-FF5722?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Interactive UI & Visualization</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Flow-FF0072?style=flat-square&logo=react&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Developer Tools</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code%20Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webview-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/AST%20Analysis-2F4F4F?style=flat-square" />
+</p>
+
+<p align="center">
+  <strong>Design & Collaboration</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <h3 align="center">Activities</h3>
@@ -25,7 +60,6 @@
   <img src="https://img.shields.io/badge/2025-%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC-FFB74D?style=flat-square&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/AICS%20Lab-%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D-81C784?style=flat-square&logo=academia&logoColor=white" />
 </p>
-
 <details>
   <summary><strong>About</strong></summary>
   <br />
