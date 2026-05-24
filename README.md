@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://port-folio-ppsssj.vercel.app/"><strong>Portfolio</strong></a> ·
+  <a href="https://ppsssj.vercel.app/"><strong>Portfolio</strong></a> ·
   <a href="https://github.com/ppsssj?tab=repositories"><strong>Projects</strong></a>
 </p>
 
