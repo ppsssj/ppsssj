@@ -105,7 +105,7 @@
     Repo: [Git-Effects](https://github.com/ppsssj/Git-Effects)
 
   - **Farmland Matching Platform (WEB)**  
-    토지 소유주와 청년 농업인을 연결하기 위한 신뢰 기반 농지 매칭 서비스 프로토타입  
+    토지 소유주와 청년 농업인을 연결하기 위한 신뢰 기반 농지 매칭 웹 프로젝트 
     `React | UI/UX Design | API Integration | Deployment`  
     Repo: [Farmland Matching](https://github.com/ppsssj/farmland-matching.git)
 
