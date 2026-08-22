@@ -84,44 +84,50 @@
   <summary><strong>Featured Projects</strong></summary>
   <br />
 
-* **InfiniteDesk (Windows Desktop App)**
-  실행 중인 Windows 애플리케이션을 하나의 공간형 캔버스에서 확인·배치하고, 구성한 레이아웃을 실제 OS 창에 적용할 수 있는 데스크톱 작업공간 도구
-  `Electron | React | TypeScript | Windows API | DWM | Native Module`
-  실시간 창 미리보기, Workspace 저장·복원, Quick Launch, Mirror Control, Native Overlay 및 Virtual Display 기능 구현
-  Repo: [InfiniteDesk](https://github.com/ppsssj/InfiniteDesk)
+  - **InfiniteDesk (Windows Desktop App)**  
+    실행 중인 Windows 애플리케이션을 하나의 공간형 캔버스에서 확인·배치하고, 구성한 레이아웃을 실제 OS 창에 적용할 수 있는 데스크톱 작업공간 도구  
+    `Electron | React | TypeScript | Windows API | DWM | Native Module`  
+    실시간 창 미리보기, Workspace 저장·복원, Quick Launch, Mirror Control, Native Overlay 및 Virtual Display 기능 구현  
 
-* **Cogic (VS Code Extension)**
-  TypeScript·JavaScript 코드베이스를 분석해 코드 요소와 호출·참조·데이터 흐름 관계를 인터랙티브 그래프로 탐색할 수 있도록 만든 개발자 도구
-  `TypeScript | VS Code Extension | React | Webview | Static Analysis`
-  React·Vue·Express·NestJS 분석, Trace Mode, Runtime Debug, 분석 캐시 및 소스 코드 탐색 기능 구현
-  Published on VS Code Marketplace
-  Marketplace: [Cogic](https://marketplace.visualstudio.com/items?itemName=ppsssj.cogic)
-  Repo: [Cogic](https://github.com/ppsssj/Cogic)
+    Repo: [InfiniteDesk](https://github.com/ppsssj/InfiniteDesk)
 
-* **GraphMind (WEB)**
-  수식과 구조화된 데이터를 2D·3D 그래프로 시각화하고, 그래프를 직접 편집·저장하며 AI 기반 분석과 조작을 지원하는 인터랙티브 수학 워크스페이스
-  `React | Three.js (R3F) | Math.js | Spring Boot`
-  수식·그래프 연동, 3D Curve/Surface 시각화, Studio 편집 환경, Vault 저장 및 AI Panel 구현
-  Repo: [GraphMind](https://github.com/ppsssj/GraphMind-monorepo)
+  - **Cogic (VS Code Extension)**  
+    TypeScript·JavaScript 코드베이스를 분석해 코드 요소와 호출·참조·데이터 흐름 관계를 인터랙티브 그래프로 탐색할 수 있도록 만든 개발자 도구  
+    `TypeScript | VS Code Extension | React | Webview | Static Analysis`  
+    React·Vue·Express·NestJS 분석, Trace Mode, Runtime Debug, 분석 캐시 및 소스 코드 탐색 기능 구현  
+    Published on VS Code Marketplace  
 
-* **Git-Reflow (WEB + Chrome Extension)**
-  웹에서 GitHub UI 템플릿을 설계하고 Chrome Extension을 통해 실제 GitHub 화면에 적용하는 인터페이스 커스터마이징 도구
-  `React | TypeScript | Node.js | SQLite | Chrome Extension`
-  템플릿 Editor·Network, Google OAuth, Shared Contract 및 GitHub DOM 기반 레이아웃 적용 구조 구현
-  Repo: [Git-Reflow](https://github.com/ppsssj/git-reflow)
+    Marketplace: [Cogic](https://marketplace.visualstudio.com/items?itemName=ppsssj.cogic)  
+    Repo: [Cogic](https://github.com/ppsssj/Cogic)
 
-* **PrismDesign (Visual Programming WEB)**
-  TouchDesigner의 작업 방식에서 영감을 받아 TOP·CHOP·SOP 노드를 연결해 실시간 비주얼 파이프라인을 구성할 수 있도록 만든 웹 기반 비주얼 프로그래밍 환경
-  `React | TypeScript | React Flow | Canvas 2D | MediaPipe`
-  노드 그래프 실행 구조, 실시간 Preview, 오디오·손 추적 입력 및 CHOP 기반 파라미터 바인딩 구현
-  Repo: [PrismDesign](https://github.com/ppsssj/PrismDesign)
+  - **GraphMind (WEB)**  
+    수식과 구조화된 데이터를 2D·3D 그래프로 시각화하고, 그래프를 직접 편집·저장하며 AI 기반 분석과 조작을 지원하는 인터랙티브 수학 워크스페이스  
+    `React | Three.js (R3F) | Math.js | Spring Boot`  
+    수식·그래프 연동, 3D Curve/Surface 시각화, Studio 편집 환경, Vault 저장 및 AI Panel 구현  
 
-* **Traffic Noise Prediction (ML + WEB)**
-  도시 환경 메타데이터를 기반으로 CatBoost 회귀 모델을 활용해 교통수단별 소음 수준을 예측하고 지도와 그래프로 시각화한 시스템
-  `Python | CatBoost | Flask | React | Data Visualization`
-  24시간 소음 프로파일과 영향 요인 분석 기능 구현
-  **2025 BLEP 데이터 활용 경진대회 장려상 · 한국데이터사이언스학회 최우수 논문상**
-  Repo: [Traffic Noise Prediction](https://github.com/ppsssj/Traffic-Noise-Prediction-System)
+    Repo: [GraphMind](https://github.com/ppsssj/GraphMind-monorepo)
+
+  - **Git-Reflow (WEB + Chrome Extension)**  
+    웹에서 GitHub UI 템플릿을 설계하고 Chrome Extension을 통해 실제 GitHub 화면에 적용하는 인터페이스 커스터마이징 도구  
+    `React | TypeScript | Node.js | SQLite | Chrome Extension`  
+    템플릿 Editor·Network, Google OAuth, Shared Contract 및 GitHub DOM 기반 레이아웃 적용 구조 구현  
+
+    Repo: [Git-Reflow](https://github.com/ppsssj/git-reflow)
+
+  - **PrismDesign (Visual Programming WEB)**  
+    TouchDesigner의 작업 방식에서 영감을 받아 TOP·CHOP·SOP 노드를 연결해 실시간 비주얼 파이프라인을 구성할 수 있도록 만든 웹 기반 비주얼 프로그래밍 환경  
+    `React | TypeScript | React Flow | Canvas 2D | MediaPipe`  
+    노드 그래프 실행 구조, 실시간 Preview, 오디오·손 추적 입력 및 CHOP 기반 파라미터 바인딩 구현  
+
+    Repo: [PrismDesign](https://github.com/ppsssj/PrismDesign)
+
+  - **Traffic Noise Prediction (ML + WEB)**  
+    도시 환경 메타데이터를 기반으로 CatBoost 회귀 모델을 활용해 교통수단별 소음 수준을 예측하고 지도와 그래프로 시각화한 시스템  
+    `Python | CatBoost | Flask | React | Data Visualization`  
+    24시간 소음 프로파일과 영향 요인 분석 기능 구현  
+    **2025 BLEP 데이터 활용 경진대회 장려상 · 한국데이터사이언스학회 최우수 논문상**  
+
+    Repo: [Traffic Noise Prediction](https://github.com/ppsssj/Traffic-Noise-Prediction-System)
 
 </details>
 
