@@ -84,41 +84,47 @@
   <summary><strong>Featured Projects</strong></summary>
   <br />
 
-  - **GraphMind (WEB)**  
-    수식으로 3차원 그래프를 생성하고, 그래프와 수식 간 양방향 반영 및 LLM 기반 조작·분석을 지원하는 웹 프로젝트  
-    `React | Three.js (R3F) | mathjs | Spring`  
-    Repo: [GraphMind](https://github.com/ppsssj/GraphMind-monorepo.git)
+* **InfiniteDesk (Windows Desktop App)**
+  실행 중인 Windows 애플리케이션을 하나의 공간형 캔버스에서 확인·배치하고, 구성한 레이아웃을 실제 OS 창에 적용할 수 있는 데스크톱 작업공간 도구
+  `Electron | React | TypeScript | Windows API | DWM | Native Module`
+  실시간 창 미리보기, Workspace 저장·복원, Quick Launch, Mirror Control, Native Overlay 및 Virtual Display 기능 구현
+  Repo: [InfiniteDesk](https://github.com/ppsssj/InfiniteDesk)
 
-  - **Cogic (VS Code Extension)**  
-    TypeScript와 JavaScript 코드 구조를 그래프 기반으로 탐색할 수 있도록 만든 VS Code 확장 프로그램  
-    `TypeScript | VS Code Extension | React | Webview`  
-    함수, 클래스, 인터페이스 등 주요 코드 요소와 관계를 시각화하여 코드 이해를 지원  
-    Published on VS Code Marketplace  
-    Marketplace: [Cogic](https://marketplace.visualstudio.com/items?itemName=ppsssj.cogic)  
-    Repo: [Cogic](https://github.com/ppsssj/CodeGraph)
+* **Cogic (VS Code Extension)**
+  TypeScript·JavaScript 코드베이스를 분석해 코드 요소와 호출·참조·데이터 흐름 관계를 인터랙티브 그래프로 탐색할 수 있도록 만든 개발자 도구
+  `TypeScript | VS Code Extension | React | Webview | Static Analysis`
+  React·Vue·Express·NestJS 분석, Trace Mode, Runtime Debug, 분석 캐시 및 소스 코드 탐색 기능 구현
+  Published on VS Code Marketplace
+  Marketplace: [Cogic](https://marketplace.visualstudio.com/items?itemName=ppsssj.cogic)
+  Repo: [Cogic](https://github.com/ppsssj/Cogic)
 
-  - **Git-Effects (VS Code Extension)**  
-    VS Code에서 Git 작업 결과를 시각적 애니메이션으로 제공하는 확장 프로그램  
-    `TypeScript | VS Code Extension | Webview | Three.js`  
-    Published on VS Code Marketplace  
-    Marketplace: [Git-Effects](https://marketplace.visualstudio.com/items?itemName=ppsssj.git-effects#review-details)  
-    Repo: [Git-Effects](https://github.com/ppsssj/Git-Effects)
+* **GraphMind (WEB)**
+  수식과 구조화된 데이터를 2D·3D 그래프로 시각화하고, 그래프를 직접 편집·저장하며 AI 기반 분석과 조작을 지원하는 인터랙티브 수학 워크스페이스
+  `React | Three.js (R3F) | Math.js | Spring Boot`
+  수식·그래프 연동, 3D Curve/Surface 시각화, Studio 편집 환경, Vault 저장 및 AI Panel 구현
+  Repo: [GraphMind](https://github.com/ppsssj/GraphMind-monorepo)
 
-  - **Farmland Matching Platform (WEB)**  
-    토지 소유주와 청년 농업인을 연결하기 위한 신뢰 기반 농지 매칭 웹 프로젝트 
-    `React | UI/UX Design | API Integration | Deployment`  
-    Repo: [Farmland Matching](https://github.com/ppsssj/farmland-matching.git)
+* **Git-Reflow (WEB + Chrome Extension)**
+  웹에서 GitHub UI 템플릿을 설계하고 Chrome Extension을 통해 실제 GitHub 화면에 적용하는 인터페이스 커스터마이징 도구
+  `React | TypeScript | Node.js | SQLite | Chrome Extension`
+  템플릿 Editor·Network, Google OAuth, Shared Contract 및 GitHub DOM 기반 레이아웃 적용 구조 구현
+  Repo: [Git-Reflow](https://github.com/ppsssj/git-reflow)
 
-  - **Traffic Noise Prediction (CatBoost Regression, WEB)**  
-    메타데이터를 바탕으로 CatBoost 회귀 모델을 활용해 교통 소음 수준을 예측하고 시각화한 웹 프로젝트  
-    `Python | CatBoost | Regression | Feature Engineering | API | Visualization`  
-    Repo: [Traffic Noise Prediction](https://github.com/ppsssj/Traffic-Noise-Prediction-System.git)
+* **PrismDesign (Visual Programming WEB)**
+  TouchDesigner의 작업 방식에서 영감을 받아 TOP·CHOP·SOP 노드를 연결해 실시간 비주얼 파이프라인을 구성할 수 있도록 만든 웹 기반 비주얼 프로그래밍 환경
+  `React | TypeScript | React Flow | Canvas 2D | MediaPipe`
+  노드 그래프 실행 구조, 실시간 Preview, 오디오·손 추적 입력 및 CHOP 기반 파라미터 바인딩 구현
+  Repo: [PrismDesign](https://github.com/ppsssj/PrismDesign)
 
-  - **Traffic Flow Prediction (GINE + NSGA-II)**  
-    그래프 신경망과 다목적 최적화 기법을 활용해 교통 속도와 흐름을 예측한 프로젝트  
-    `Python | PyTorch Geometric | GINE | NSGA-II | Data Pipeline`  
-    Repo: [Traffic Flow Prediction](https://github.com/ppsssj/gine-road-speed-quantile.git)
+* **Traffic Noise Prediction (ML + WEB)**
+  도시 환경 메타데이터를 기반으로 CatBoost 회귀 모델을 활용해 교통수단별 소음 수준을 예측하고 지도와 그래프로 시각화한 시스템
+  `Python | CatBoost | Flask | React | Data Visualization`
+  24시간 소음 프로파일과 영향 요인 분석 기능 구현
+  **2025 BLEP 데이터 활용 경진대회 장려상 · 한국데이터사이언스학회 최우수 논문상**
+  Repo: [Traffic Noise Prediction](https://github.com/ppsssj/Traffic-Noise-Prediction-System)
+
 </details>
+
 
 <details>
   <summary><strong>Contact</strong></summary>
