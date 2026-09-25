@@ -90,6 +90,10 @@ GitHub 저장소를 로컬에 직접 clone하지 않고 미리보기·분석할 
 - **2025 BLEP 데이터 활용 경진대회 장려상** — Traffic Noise Prediction
 - **2025 한국데이터사이언스학회 최우수 논문상** — Traffic Noise Prediction
 
+## Certifications
+
+- **정보처리기사** — 한국산업인력공단 (2026.09)
+
 <details>
   <summary>GitHub Stats</summary>
 
