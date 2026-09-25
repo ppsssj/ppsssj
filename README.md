@@ -40,7 +40,7 @@ GitHub 저장소를 로컬에 직접 clone하지 않고 미리보기·분석할 
 - 격리 실행 환경과 프리뷰 수명 주기 관리
 - 외부 API 오류 처리 및 운영 검증을 통한 안정성 개선
 
-[Repository](https://github.com/The-peephole/peephole)
+[Repository](https://github.com/The-peephole/peephole) · [Chrome Web Store](https://chromewebstore.google.com/detail/peephole/fieofkhijgngfoflgpkbghbkaidhdgel)
 
 ### [GraphMind](https://github.com/ppsssj/GraphMind-monorepo)
 수식과 데이터를 2D·3D 그래프로 시각화하고 편집·저장하는 수학 워크스페이스입니다.
